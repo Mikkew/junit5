@@ -1,0 +1,9 @@
+logging:
+  level:
+    org.springframework: off
+    org.hibernate.SQL: debug
+    root: off
+
+spring:
+  main:
+    banner-mode: off
